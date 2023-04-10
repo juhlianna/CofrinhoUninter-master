@@ -1,7 +1,7 @@
 # CIÊNCIA DE DADOS - UNINTER SP
 ## POO JAVA - TRABALHO 
-## ATIVIDADE PRÁTICA
-1. OBJETIVO
+### ATIVIDADE PRÁTICA
+#### OBJETIVO
 O trabalho consiste em implementar um pequeno sistema que emula um "Cofrinho
 de moedas" em Java. Crie um menu em que é oferecido ao usuário:
 * Adicionar moedas de diferentes valores e países em seu cofrinho.

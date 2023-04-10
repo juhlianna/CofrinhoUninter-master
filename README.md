@@ -1,4 +1,4 @@
-#ATIVIDADE PRÁTICA
+# ATIVIDADE PRÁTICA
 1. OBJETIVO
 O trabalho consiste em implementar um pequeno sistema que emula um "Cofrinho
 de moedas" em Java. Crie um menu em que é oferecido ao usuário:

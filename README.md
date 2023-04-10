@@ -21,4 +21,4 @@ estrutura de dados que julgue pertinente.
 Demais detalhes de implementação ficam a cargo do aluno que pode desenvolver
 também classes extras ou adicionar métodos e atributos conforme julgar necessário.
 
-! [UML - COFRINHO]
+
